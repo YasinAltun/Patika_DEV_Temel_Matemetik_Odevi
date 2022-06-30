@@ -6,5 +6,7 @@ Mantıksal veya matematiksel bir bağlamda sezginin değerine ilişkin görüş 
 
 
 1 XiXiDu (2011). "Sezgi ve Matematik" .
+
 2 Burton, Leone (2014). "Sezgi Matematikçiler İçin Neden Bu Kadar Önemlidir, Ama Matematik Eğitiminde Eksiktir?" (PDF) . Semantik Bilim Adamı . 2019-10-21 tarihinde orijinalinden arşivlendi (PDF) . 21 Ekim 2019'da alındı .
+
 3 Aas, Benjamin (2011). "Beden-Gödel-Zihin: Bilincin zor sorununun çözülemezliği" (PDF) .
