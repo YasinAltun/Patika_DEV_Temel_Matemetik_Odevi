@@ -1,0 +1,1 @@
+# Patika_DEV_Temel_Matemetik_Odevi
